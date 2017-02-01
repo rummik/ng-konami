@@ -1,0 +1,22 @@
+{
+  "name": "ng-konami",
+  "authors": [
+    "Kimberly Zick (rummik) <k@9k1.us>"
+  ],
+  "description": "Angular Konami Code event handler",
+  "main": "konami.js",
+  "keywords": [
+    "konami",
+    "code",
+    "angular"
+  ],
+  "license": "Public Domain / CC0 / WTFPL",
+  "homepage": "https://github.com/rummik/ng-konami",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
